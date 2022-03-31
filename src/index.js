@@ -23,7 +23,7 @@ class Main extends React.Component {
       },
       infoWork: {
         position: '',
-        name: '',
+        name: 'Hola',
         city: '',
         from: '',
         to: ''
